@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="Develop&Code">
+    <meta name="keywords" content="HTML5, CSS3, Javascript">
+    <title>Develop&Code</title>
+    <link rel="stylesheet" href="./stylesheet.css" type="text/css">
+  </head>
+  <body id="body">
+    <div class="envelope-1">
+      <nav id="menu">
+        <ul>
+          <div id="menu-item">
+            <li><a href="#"><div id="title">Develop and Code</div></a></li>
+          </div>
+          <li><a href="#">Novededes</a></li>
+          <li><a href="#">Foros</a>
+            <ul>
+             <li><a href="#">Mis foros</a></li>
+             <li><a href="#">Foros</a></li>
+            </ul>
+           </li>
+           <li><a href="#">Tutoriales</a></li>
+           <li><a href="#">Perfil</a>
+            <ul>
+             <li><a href="#">Mi perfil</a></li>
+             <li><a href="#">Configuración</a></li>
+            </ul>
+           </li>
+           <li><a href="#">Notificaciones</a>
+            <ul>
+             <li><a href="#">Lista de notificaciones</a></li>
+            </ul>
+           </li>
+           <li><a href="#">Chats</a></li>
+          </div>
+        </ul>
+      </nav>
+      <section>
+        <article id="article">
+          <header>
+          </header>
+          <footer id="article footer">
+          </footer>
+        </article>
+        <article id="article">
+          <header>
+          </header>
+          <footer id="article footer">
+          </footer>
+        </article>
+        <article id="article">
+          <header>
+          </header>
+          <footer id="article footer">
+          </footer>
+        </article>
+      </section>
+      <aside>
+        <blockquote></blockquote>
+      </aside>
+      <footer id="foot">
+        <small>Derechos reservados &copy; 2017<br>
+          //Oussama Benhachem Gharrass<br>
+          Facebook
+          Twitter
+          Instagram
+          Linkeden</small>
+      </footer>
+    </div>
+  </body>
+</html>
